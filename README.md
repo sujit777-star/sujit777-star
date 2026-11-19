@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Sujit EL 👋
 
-<!--
-**sujit777-star/sujit777-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-Year Computer Science and Engineering Student at Saveetha Engineering College.
 
-Here are some ideas to get you started:
+## About Me
+- Interested in Software Development and Artificial Intelligence.
+- Exploring Python programming and Game Development.
+- Enjoy building projects and experimenting with new technologies.
+- Always interested in learning something new.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+- Python
+- HTML
+- CSS
+
+## Currently Learning
+- Advanced Python
+- Git and GitHub
+- Artificial Intelligence
+- Game Development
+
+## Featured Project
+
+### 🏎️ VELOCITY X – Multiplayer Racing Game
+
+An experimental multiplayer racing game project focused on creating an engaging 3D racing experience.
+
+**Exploring:**
+- 3D racing environments
+- Multiplayer functionality
+- Interactive racing controls
+- Game environment design
+- Gameplay improvements
+
+**Status:** In Development
+
+## Goals
+- Improve programming fundamentals.
+- Build meaningful projects.
+- Explore AI and software development.
+- Collaborate with other developers.
+
+## Connect With Me
+- LinkedIn: https://www.linkedin.com/in/sujit-el-160788431
+- GitHub: https://github.com/sujit777-star
+
+---
+⭐ Learning, building and improving every day.
